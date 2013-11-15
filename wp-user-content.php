@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP User Content
  * Plugin URI: http://webmasterninja.wordpress.com/
- * Description: All of my own custom functions.
+ * Description: Display certain content for logged in and logged out user.
  * Version: 1.0.1
  * Author: Jayson Antipuesto
  * Author URI: http://webmasterninja.wordpress.com/
