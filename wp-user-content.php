@@ -1,5 +1,13 @@
 <?php
-
+/**
+ * Plugin Name: WP User Content
+ * Plugin URI: http://webmasterninja.wordpress.com/
+ * Description: All of my own custom functions.
+ * Version: 1.0.1
+ * Author: Jayson Antipuesto
+ * Author URI: http://webmasterninja.wordpress.com/
+ */
+ 
 // Display content for website guest.
 add_shortcode('guest','wp_show_guest_content');
 function wp_show_guest_content($atts,$content){
